@@ -119,6 +119,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   text-decoration: none;
 }
+.hireMe:hover{
+  background:#5887FF;
+  color:#fff;
+  }
+.hireMe{
+  background: lightblue;
+  clear: right;
+  margin: 0px auto;
+  display: block;
+  text-align: center;
+  width: 150px;
+  color:#000;
+  padding:10px 5px;
+  margin-top:25px;
+  margin-left: 4px;
+  }
 
 #main {
   margin-left: 300px;
